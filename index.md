@@ -9,6 +9,8 @@ layout: home
 # Test headline
 How to check if a story or a fact is true?
 
+Image: ![](assets/kitten.jpg "Logo Title Text 1")
+
 Target group: Amateur writers/Bloggers
 
 There are many news, information and flying around on the internet. Some are true, some are not and some are in the middle - not totally wrong and not totally correct.
