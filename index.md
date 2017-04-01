@@ -60,16 +60,12 @@ Ask yourself what is my bias? Is there anything I have not considered yet becaus
 
 ## Step 7: Publish
 
-Is my article easy to understand?
-Do I have references? Is everything transparent?
+* Is my article easy to understand?
+* Do I have references? Is everything transparent?
 
 ## Step 8: Engage with your readers!
 
-To check pictures or videos that might be an useful tool for you:
+To check pictures or videos that might be an useful tool for you: [Visual verification guide](https://firstdraftnews.com/resource/visual-verification-guide-photos/)
 
-[Visual verification guide](https://firstdraftnews.com/resource/visual-verification-guide-photos/)
-
-Use fact-check websites:
-
-[database]
+Use fact-check websites:[Database]()
 
