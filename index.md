@@ -16,7 +16,8 @@ There are many news, information and flying around on the internet. Some are tru
 With this easy steps you can identify false information and avoid to make certain mistakes. 
 
 Step 1: When was 
-
+* abc
+* efg
 
 Part 1:
 Time
